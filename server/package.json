@@ -18,6 +18,10 @@
     },
     "homepage": "https://github.com/korelin2k/scrapeit#readme",
     "dependencies": {
-        "concurrently": "^4.1.0"
+        "body-parser": "^1.18.3",
+        "concurrently": "^4.1.0",
+        "express": "^4.16.4",
+        "mongoose": "^5.4.7",
+        "morgan": "^1.9.1"
     }
 }

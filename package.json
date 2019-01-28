@@ -5,6 +5,7 @@
     "main": "server/server.js",
     "scripts": {
         "client-install": "npm install --prefix client",
+        "heroku-postbuild": "cd client && npm install && npm run build",
         "prestart": "npm run client",
         "start": "npm run server",
         "server": "npm start --prefix server",

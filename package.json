@@ -2,7 +2,7 @@
     "name": "scrapeit",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "server/server.js",
     "scripts": {
         "client-install": "npm install --prefix client",
         "prestart": "npm run client",

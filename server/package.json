@@ -1,0 +1,23 @@
+{
+    "name": "scrapeit",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/korelin2k/scrapeit.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/korelin2k/scrapeit/issues"
+    },
+    "homepage": "https://github.com/korelin2k/scrapeit#readme",
+    "dependencies": {
+        "concurrently": "^4.1.0"
+    }
+}
